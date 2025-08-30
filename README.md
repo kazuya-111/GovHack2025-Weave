@@ -1,9 +1,7 @@
-# GovHack2025-Weave
-GovHack2025 sites
-# 📱 Multilingual Civic Forum – Mobile App (Expo + React Native)
+# 🌐 Multilingual Civic Forum – Web App (React + Vite)
 
-A mobile application enabling citizens to exchange ideas in multiple languages, share news and event information, and engage with local councils.  
-It integrates with the Flarum forum API, offering AI translation, news summaries, event listings, and a council dashboard.
+A responsive web application enabling citizens to exchange ideas in multiple languages, share news and event information, and engage with local councils.  
+It integrates with the Flarum forum API, offering AI translation, news summaries, event listings, and a council dashboard — all accessible from any modern browser.
 
 ---
 
@@ -24,4 +22,19 @@ It integrates with the Flarum forum API, offering AI translation, news summaries
   - Visualises trending topics and participation metrics (future expansion)
 
 ---
+
+## 🛠 Tech Stack
+
+- **React 18 + Vite (TypeScript)**
+- **React Router** – page navigation
+- **Axios** – API requests
+- **Flarum REST API** – forum data retrieval and posting
+- **Environment Variables** – `.env` for API endpoints
+- **Tailwind CSS** (optional) – responsive styling
+
+---
+
+## 📂 Directory Structure
+
+
 
